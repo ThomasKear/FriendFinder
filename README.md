@@ -4,7 +4,7 @@ An Express and Node-based application for matching users based on personality.  
 
 ## Getting Started
 
-TO view the site and interact with other users' data visit https://limitless-fortress-94396.herokuapp.com/
+To view the site and interact with other users' data visit https://limitless-fortress-94396.herokuapp.com/
 
 ## Prerequisites
 
